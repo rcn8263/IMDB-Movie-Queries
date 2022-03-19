@@ -1,0 +1,127 @@
+Reading movies into list...
+Elapsed time (s): 15.431
+Converting movie list to map...
+Elapsed time (s): 1.407
+Reading ratings into map...
+Elapsed time (s): 0.0
+Processing: RUNTIME MOVIE 237 240
+	TITLE: 10 jaar leuven kort, TYPE: MOVIE, YEAR: 2004, RUNTIME: 240
+	TITLE: 240 minut v Solingenu, TYPE: MOVIE, YEAR: 1995, RUNTIME: 240
+	TITLE: 75A4053: The Ronald DeFeo Interview, TYPE: MOVIE, YEAR: 2014, RUNTIME: 240
+	TITLE: A Grin Without A Cat, TYPE: MOVIE, YEAR: 1977, RUNTIME: 240
+	TITLE: Aasma: The Sky Is the Limit, TYPE: MOVIE, YEAR: 2009, RUNTIME: 240
+	TITLE: Acta General de Chile, TYPE: MOVIE, YEAR: 1986, RUNTIME: 240
+	TITLE: Aliens from Outer Space, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Aliens, UFOS and the New World Order, TYPE: MOVIE, YEAR: 2012, RUNTIME: 240
+	TITLE: Amerikkas Fallen Angels, TYPE: MOVIE, YEAR: 2015, RUNTIME: 240
+	TITLE: Ancient Astronauts: Our Extraterrestrial Legacy, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Ayoma, TYPE: MOVIE, YEAR: 1995, RUNTIME: 240
+	TITLE: Beyond the Sphere of Reasonable Doubt, TYPE: MOVIE, YEAR: 2018, RUNTIME: 240
+	TITLE: Born in Beijing, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Classic Artists: The Moody Blues, TYPE: MOVIE, YEAR: 2006, RUNTIME: 240
+	TITLE: Consolations (Love Is an Art of Time) Part 3: The Body and the World, TYPE: MOVIE, YEAR: 1988, RUNTIME: 240
+	TITLE: De Nuremberg à Nuremberg, TYPE: MOVIE, YEAR: 1989, RUNTIME: 240
+	TITLE: Die Meistersinger von Nürnberg, TYPE: MOVIE, YEAR: 1971, RUNTIME: 240
+	TITLE: Eisenstein's Mexican Project, TYPE: MOVIE, YEAR: 1958, RUNTIME: 240
+	TITLE: Elsewhere, TYPE: MOVIE, YEAR: 2001, RUNTIME: 240
+	TITLE: Gori, gori, oganche, TYPE: MOVIE, YEAR: 1994, RUNTIME: 240
+	TITLE: Grands soirs & petits matins, TYPE: MOVIE, YEAR: 1978, RUNTIME: 240
+	TITLE: Greenpool, TYPE: MOVIE, YEAR: 2018, RUNTIME: 240
+	TITLE: Grrrb, TYPE: MOVIE, YEAR: 2019, RUNTIME: 240
+	TITLE: Haripada Bandwala, TYPE: MOVIE, YEAR: 2016, RUNTIME: 240
+	TITLE: Holidays in the Sun, TYPE: MOVIE, YEAR: 1997, RUNTIME: 240
+	TITLE: Hope & Beauty, TYPE: MOVIE, YEAR: 2000, RUNTIME: 240
+	TITLE: Indus Valley to Indira Gandhi, TYPE: MOVIE, YEAR: 1970, RUNTIME: 240
+	TITLE: Informe general sobre unas cuestiones de interés para una proyección pública, TYPE: MOVIE, YEAR: 1977, RUNTIME: 240
+	TITLE: Jungle Mystery, TYPE: MOVIE, YEAR: 1932, RUNTIME: 240
+	TITLE: Junior G-Men, TYPE: MOVIE, YEAR: 1940, RUNTIME: 240
+	TITLE: La España trágica o Tierra de sangre, TYPE: MOVIE, YEAR: 1918, RUNTIME: 240
+	TITLE: La guerre sans nom, TYPE: MOVIE, YEAR: 1992, RUNTIME: 240
+	TITLE: La vie privée du cinéma, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Leaving Neverland, TYPE: MOVIE, YEAR: 2019, RUNTIME: 240
+	TITLE: Marcus Miller: Master of All Trades, TYPE: MOVIE, YEAR: 2006, RUNTIME: 240
+	TITLE: National Theatre Live: Saint Joan, TYPE: MOVIE, YEAR: 2017, RUNTIME: 240
+	TITLE: Parsifal, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Paths of the Gods, TYPE: MOVIE, YEAR: 1995, RUNTIME: 240
+	TITLE: Phobia, TYPE: MOVIE, YEAR: 2008, RUNTIME: 240
+	TITLE: Pirate Treasure, TYPE: MOVIE, YEAR: 1934, RUNTIME: 240
+	TITLE: RED by James Hogan, TYPE: MOVIE, YEAR: 2016, RUNTIME: 240
+	TITLE: Rainaldo Graziani da Meridiano Zero al Soggetto Radicale... da Evola a Dugin, TYPE: MOVIE, YEAR: 2019, RUNTIME: 240
+	TITLE: Reasonable_2, TYPE: MOVIE, YEAR: 2018, RUNTIME: 240
+	TITLE: Rhythm 0: A Slide Show, TYPE: MOVIE, YEAR: 1974, RUNTIME: 240
+	TITLE: Rolling Stone: Stories from the Edge, TYPE: MOVIE, YEAR: 2017, RUNTIME: 240
+	TITLE: S.P.E.E.D., TYPE: MOVIE, YEAR: 0, RUNTIME: 240
+	TITLE: Shirley Temple Story, TYPE: MOVIE, YEAR: 1976, RUNTIME: 240
+	TITLE: Son of Geronimo: Apache Avenger, TYPE: MOVIE, YEAR: 1952, RUNTIME: 240
+	TITLE: Spell of the Circus, TYPE: MOVIE, YEAR: 1931, RUNTIME: 240
+	TITLE: Submarines: Sharks of Steel, TYPE: MOVIE, YEAR: 1993, RUNTIME: 240
+	TITLE: The British & Irish Lions: Uncovered, TYPE: MOVIE, YEAR: 2017, RUNTIME: 240
+	TITLE: The Lost Special, TYPE: MOVIE, YEAR: 1932, RUNTIME: 240
+	TITLE: The Marvel Experience, TYPE: MOVIE, YEAR: 2014, RUNTIME: 240
+	TITLE: The Olympics in Mexico, TYPE: MOVIE, YEAR: 1969, RUNTIME: 240
+	TITLE: The Phantom of the Air, TYPE: MOVIE, YEAR: 1933, RUNTIME: 240
+	TITLE: The Sea Hound, TYPE: MOVIE, YEAR: 1947, RUNTIME: 240
+	TITLE: The Way of Thorns, TYPE: MOVIE, YEAR: 0, RUNTIME: 240
+	TITLE: The Wolf Dog, TYPE: MOVIE, YEAR: 1933, RUNTIME: 240
+	TITLE: Tsigni pitsisa, TYPE: MOVIE, YEAR: 1983, RUNTIME: 240
+	TITLE: United Grand Lodge of Queensland Grand Installation, TYPE: MOVIE, YEAR: 2013, RUNTIME: 240
+	TITLE: Uporno Dozivanje Andjela, TYPE: MOVIE, YEAR: 2013, RUNTIME: 240
+	TITLE: Veera, TYPE: MOVIE, YEAR: 1994, RUNTIME: 240
+	TITLE: Vivekananda, TYPE: MOVIE, YEAR: 1998, RUNTIME: 240
+	TITLE: White Noise, TYPE: MOVIE, YEAR: 2019, RUNTIME: 240
+	TITLE: Why Quilts Matter: History, Art & Politics, TYPE: MOVIE, YEAR: 2011, RUNTIME: 240
+	TITLE: Zack Snyder's Justice League, TYPE: MOVIE, YEAR: 2021, RUNTIME: 240
+	TITLE: Blazing the Overland Trail, TYPE: MOVIE, YEAR: 1956, RUNTIME: 239
+	TITLE: I Saw a Little Bird Flying Over a Psychiatric Hospital Near Milan 2 Days Ago and Now it Became So Good that I Drank the Bordeaux Champagne of the Sample in 1771 So That My Soul Would Experience an Incredible Life in This Brutal and Gray World, TYPE: MOVIE, YEAR: 2018, RUNTIME: 239
+	TITLE: The Iceman Cometh, TYPE: MOVIE, YEAR: 1973, RUNTIME: 239
+	TITLE: World Rights Human Wrongs, TYPE: MOVIE, YEAR: 2018, RUNTIME: 239
+	TITLE: Carlos Santana: Presents Blues at Montreux 2004, TYPE: MOVIE, YEAR: 2006, RUNTIME: 238
+	TITLE: Gone with the Wind, TYPE: MOVIE, YEAR: 1939, RUNTIME: 238
+	TITLE: Long Strange Trip - The Untold Story of The Grateful Dead, TYPE: MOVIE, YEAR: 2017, RUNTIME: 238
+	TITLE: Ludwig, TYPE: MOVIE, YEAR: 1973, RUNTIME: 238
+	TITLE: Pausa italiana, TYPE: MOVIE, YEAR: 2004, RUNTIME: 238
+	TITLE: Sangam, TYPE: MOVIE, YEAR: 1964, RUNTIME: 238
+	TITLE: Tarahumaras 2003, La Fêlure du temps, TYPE: MOVIE, YEAR: 2003, RUNTIME: 238
+	TITLE: The Beautiful Troublemaker, TYPE: MOVIE, YEAR: 1991, RUNTIME: 238
+	TITLE: The Story of Jonah and the Whale (Sort of...), TYPE: MOVIE, YEAR: 2010, RUNTIME: 238
+	TITLE: A Brighter Summer Day, TYPE: MOVIE, YEAR: 1991, RUNTIME: 237
+	TITLE: Air Cries 'Empty Water', TYPE: MOVIE, YEAR: 1993, RUNTIME: 237
+	TITLE: Amazing Journey: The Story of The Who, TYPE: MOVIE, YEAR: 2007, RUNTIME: 237
+	TITLE: Buck Rogers, TYPE: MOVIE, YEAR: 1939, RUNTIME: 237
+	TITLE: Don Winslow of the Navy, TYPE: MOVIE, YEAR: 1942, RUNTIME: 237
+	TITLE: Gulyashchie lyudi, TYPE: MOVIE, YEAR: 1989, RUNTIME: 237
+	TITLE: Love Exposure, TYPE: MOVIE, YEAR: 2008, RUNTIME: 237
+	TITLE: Mondo Rocco, TYPE: MOVIE, YEAR: 1970, RUNTIME: 237
+	TITLE: One or Two Questions, TYPE: MOVIE, YEAR: 2018, RUNTIME: 237
+	TITLE: The Jim Breuer Road Journals, TYPE: MOVIE, YEAR: 2010, RUNTIME: 237
+Elapsed time (s): 0.41
+Processing: RUNTIME MOVIE 450 500
+	TITLE: Close Up, TYPE: MOVIE, YEAR: 2012, RUNTIME: 500
+	TITLE: UFOs and Close Encounters, TYPE: MOVIE, YEAR: 2010, RUNTIME: 500
+	TITLE: Dead Souls, TYPE: MOVIE, YEAR: 2018, RUNTIME: 495
+	TITLE: Die Meistersinger von Nürnberg, TYPE: MOVIE, YEAR: 2017, RUNTIME: 495
+	TITLE: Barrabas, TYPE: MOVIE, YEAR: 1919, RUNTIME: 489
+	TITLE: A Lullaby to the Sorrowful Mystery, TYPE: MOVIE, YEAR: 2016, RUNTIME: 485
+	TITLE: Empire, TYPE: MOVIE, YEAR: 1964, RUNTIME: 485
+	TITLE: Cine Dreams: Future Cinema of the Mind, TYPE: MOVIE, YEAR: 1972, RUNTIME: 480
+	TITLE: El protegido de Satán, TYPE: MOVIE, YEAR: 1917, RUNTIME: 480
+	TITLE: Gassmaniadi, TYPE: MOVIE, YEAR: 2006, RUNTIME: 480
+	TITLE: Park Lanes, TYPE: MOVIE, YEAR: 2015, RUNTIME: 480
+	TITLE: Report, TYPE: MOVIE, YEAR: 2018, RUNTIME: 480
+	TITLE: Sleep, TYPE: MOVIE, YEAR: 2013, RUNTIME: 480
+	TITLE: The Photo-Drama of Creation, TYPE: MOVIE, YEAR: 1914, RUNTIME: 480
+	TITLE: The Spectacular Spider-Man Trilogy (Responsibility, Repute and Requiem), TYPE: MOVIE, YEAR: 2020, RUNTIME: 480
+	TITLE: The Works and Days (of Tayoko Shiojiri in the Shiotani Basin), TYPE: MOVIE, YEAR: 2020, RUNTIME: 480
+	TITLE: Till We Age, TYPE: MOVIE, YEAR: 2016, RUNTIME: 480
+	TITLE: Leviathan: The Story of Hellraiser and Hellbound: Hellraiser II, TYPE: MOVIE, YEAR: 2015, RUNTIME: 476
+	TITLE: Alien Concubine, TYPE: MOVIE, YEAR: 2020, RUNTIME: 468
+	TITLE: O.J.: Made in America, TYPE: MOVIE, YEAR: 2016, RUNTIME: 467
+	TITLE: Français si vous saviez, TYPE: MOVIE, YEAR: 1973, RUNTIME: 465
+	TITLE: Kuriocity, TYPE: MOVIE, YEAR: 2007, RUNTIME: 461
+	TITLE: Bayreuther Festspiele - Die Show Lohengrin, TYPE: MOVIE, YEAR: 2018, RUNTIME: 460
+	TITLE: Mefisto, TYPE: MOVIE, YEAR: 1917, RUNTIME: 460
+	TITLE: Melancholia, TYPE: MOVIE, YEAR: 2008, RUNTIME: 450
+	TITLE: Ozalli Yillar, TYPE: MOVIE, YEAR: 2000, RUNTIME: 450
+	TITLE: The Beloved Adventurer, TYPE: MOVIE, YEAR: 1914, RUNTIME: 450
+	TITLE: The Soulless, TYPE: MOVIE, YEAR: 2014, RUNTIME: 450
+Elapsed time (s): 0.41
